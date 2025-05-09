@@ -1,0 +1,6 @@
+fastapi
+numpy==1.26.4
+scikit-learn
+scipy
+torch==2.2.2
+uvicorn==0.34.2
